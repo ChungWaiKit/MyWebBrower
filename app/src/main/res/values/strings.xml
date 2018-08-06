@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Web Brower</string>
+    <string name="url">LOAD URL</string>
+</resources>
